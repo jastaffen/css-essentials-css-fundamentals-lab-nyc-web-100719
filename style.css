@@ -12,6 +12,10 @@ img {
   align-content: center;
 }
 
+nav {
+  margin: 0 auto;
+}
+
 nav a {
   text-align: center;
   padding: 0px 10px;
